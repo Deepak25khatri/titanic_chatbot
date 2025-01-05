@@ -26,3 +26,6 @@ The Titanic Dataset Analyzer is a Streamlit application designed to allow users 
 2. Navigate to the app directory:
 3. Install dependencies:
 4. Set up your OpenAI API key in a `.env` file:
+
+## Link
+http://titanic-chatbot.streamlit.app
